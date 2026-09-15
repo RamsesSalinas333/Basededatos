@@ -10,3 +10,5 @@ ejercicio 3.....3
 ejercicio 4.....4
 
 ## Parte A: Preguntas de Teoria
+
+Respuestas completadas de la practica.
